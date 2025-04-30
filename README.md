@@ -23,6 +23,8 @@ Se muestra un dashboard interactivo con indicadores clave y segmentación por re
 
 🔗 [Ver Dashboard en Power BI](https://app.powerbi.com/links/Rd0s6CJSpc?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
 
+📷 PREVISUALIZACIÓN ![image](https://github.com/user-attachments/assets/a9222e3d-ffd2-43e1-8790-e1004528f4ef)
+
 ---
 
 ### 2. 🎓 Postulaciones a la Universidad UNE (2022 - 2024)
@@ -32,6 +34,8 @@ El dashboard permite explorar los datos por año, carrera profesional, modalidad
 
 🔗 [Ver Dashboard en Power BI](https://app.powerbi.com/links/DBEHUC9ls-?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
 
+📷 PREVISUALIZACIÓN ![image](https://github.com/user-attachments/assets/852b3489-50a1-4bda-8f17-6deca424c857)
+
 ---
 
 ## 📌 Notas
@@ -40,6 +44,16 @@ El dashboard permite explorar los datos por año, carrera profesional, modalidad
 - La visualización y análisis interactivo se realizaron en Power BI, integrando **Power Query** para modelado de datos y **DAX** para medidas e indicadores personalizados.
 
 ---
+
+## 🧩 Requisitos para ejecución local (opcional)
+
+Si deseas replicar el proceso ETL en Python antes de cargar los datos a Power BI:
+
+- Python 3.x
+- Jupyter Notebook o VS Code
+- Librerías necesarias:
+  ```bash
+  pip install pandas numpy matplotlib seaborn openpyxl
 
 ## 📥 ¿Cómo utilizar este repositorio?
 
