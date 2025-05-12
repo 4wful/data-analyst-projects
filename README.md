@@ -27,14 +27,14 @@ Se muestra un dashboard interactivo con indicadores clave y segmentación por re
 
 ---
 
-### 2. 🎓 Postulaciones a la Universidad UNE (2022 - 2024)
+### 2. 📦 Órdenes de Compra en Madre de Dios - TAMBOPATA (Perú - 2023)
+Proyecto de análisis de las órdenes de compra realizadas en la provincia de Tambopata, región Madre de Dios (Perú).
+El dashboard incluye indicadores clave (KPIs) descriptivos, prescriptivos y predictivos que permiten explorar el comportamiento de las adquisiciones públicas, identificar patrones de gasto, optimizar decisiones y prever tendencias futuras en la gestión de compras.
 
-Proyecto de análisis sobre las postulaciones a la **Universidad Nacional de Educación Enrique Guzmán y Valle (UNE)** en Perú.  
-El dashboard permite explorar los datos por año, carrera profesional, modalidad de ingreso y resultados obtenidos.
+🔗 [Ver Dashboard en Power BI](https://app.powerbi.com/links/ykh46N8bxP?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
 
-🔗 [Ver Dashboard en Power BI](https://app.powerbi.com/links/DBEHUC9ls-?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
+📷 PREVISUALIZACIÓN ![image](https://github.com/user-attachments/assets/b7430d51-0891-4bc4-a5e0-5e0f06f8f51d)
 
-📷 PREVISUALIZACIÓN ![image](https://github.com/user-attachments/assets/852b3489-50a1-4bda-8f17-6deca424c857)
 
 ---
 
