@@ -42,11 +42,11 @@ Además de los proyectos destacados en este repositorio, puedes explorar muchos 
 
 Dado que Power BI no permite mostrar un perfil público con todos mis proyectos a la vez, a continuación encontrarás los enlaces individuales a cada uno de ellos:
 
-🔗 [Infracciones Relacionadas con Recursos Forestales y Fauna Silvestre hasta 2025] (https://app.powerbi.com/links/tHMvr0cN5I?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
+🔗 [Infracciones Relacionadas con Recursos Forestales y Fauna Silvestre hasta 2025](https://app.powerbi.com/links/tHMvr0cN5I?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
 
-🔗 [Multas de Tránsito en el Primer Trimestre del 2025] (https://app.powerbi.com/links/e40O2JQi_D?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
+🔗 [Multas de Tránsito en el Primer Trimestre del 2025](https://app.powerbi.com/links/e40O2JQi_D?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
 
-🔗 [Postulantes a UNE 2022 - 2024] (https://app.powerbi.com/links/DBEHUC9ls-?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
+🔗 [Postulantes a UNE 2022 - 2024](https://app.powerbi.com/links/DBEHUC9ls-?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
 
 ---
 
