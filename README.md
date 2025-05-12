@@ -35,6 +35,18 @@ El dashboard incluye indicadores clave (KPIs) descriptivos, prescriptivos y pred
 
 📷 PREVISUALIZACIÓN ![image](https://github.com/user-attachments/assets/b7430d51-0891-4bc4-a5e0-5e0f06f8f51d)
 
+---
+
+🌐 Explora más dashboards de mi perfil de Power BI
+Además de los proyectos destacados en este repositorio, puedes explorar muchos más dashboards interactivos que he desarrollado. Estos abarcan diversos sectores e incluyen enfoques descriptivos, prescriptivos y predictivos, aplicando siempre buenas prácticas de modelado de datos, ETL, DAX, y diseño visual.
+
+Dado que Power BI no permite mostrar un perfil público con todos mis proyectos a la vez, a continuación encontrarás los enlaces individuales a cada uno de ellos:
+
+🔗 [Infracciones Relacionadas con Recursos Forestales y Fauna Silvestre hasta 2025] (https://app.powerbi.com/links/tHMvr0cN5I?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
+
+🔗 [Multas de Tránsito en el Primer Trimestre del 2025] (https://app.powerbi.com/links/e40O2JQi_D?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
+
+🔗 [Postulantes a UNE 2022 - 2024] (https://app.powerbi.com/links/DBEHUC9ls-?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
 
 ---
 
