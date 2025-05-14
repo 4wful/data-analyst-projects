@@ -65,7 +65,7 @@ Si deseas replicar el proceso ETL en Python antes de cargar los datos a Power BI
 - Jupyter Notebook o VS Code
 - Librerías necesarias:
   ```bash
-  pip install pandas numpy matplotlib seaborn openpyxl
+  pip install pandas numpy matplotlib seaborn openpyxl.
 
 ## 📥 ¿Cómo utilizar este repositorio?
 
